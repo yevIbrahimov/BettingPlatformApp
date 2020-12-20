@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.exe
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.deps.json
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.dll
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.pdb
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.dll
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.pdb
+C:\Users\Lenovo\source\repos\BettingPlatform\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.genruntimeconfig.cache

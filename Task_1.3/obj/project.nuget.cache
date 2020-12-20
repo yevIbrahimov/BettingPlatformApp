@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KLlZh1vAZDYQ0CfVR0yYHW5GiqpFr9hRVa2xxFwi1yc1IWZ8txQOk7R0RBIXOo+EEgyKEZ8lxstxwmxrsFqDbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\BettingPlatform\\Task_1.3\\Task_1.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
